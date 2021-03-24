@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ccccff;
+  font-family: Calibri;
+}
+.top {
+  border-bottom: solid;
+}
+.header {
+  margin: 2% 0%;
+}
+.head {
+  width: 50%;
+  margin: auto;
+  border-bottom: solid;
+}
+.f1 {
+  padding: 2%;
+}
+input {
+  width: 100%;
+}
+.button {
+  width: 20%;
+  padding: 1% 2% 1% 2%;
+  background-color: #ffb76f;
+  border: solid 1px;
+  font-weight: bold;
+}
+#disout {
+  display: none;
+}
+#list {
+  width: 100%;
+}
